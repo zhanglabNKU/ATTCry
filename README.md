@@ -1,6 +1,6 @@
 # ATTCry: Attention-based neural network model for protein crystallization prediction
 
-Code for our paper "ATTCry: Attention-based neural network model for protein crystallization prediction"
+Code for our paper "[ATTCry: Attention-based neural network model for protein crystallization prediction](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012133)"
 
 ## Requirements
 
@@ -24,3 +24,17 @@ cd ATTCry
 2. Run `train.py` to train the model.
 3. Run `val.py` to evaluate the model.
 4. Run `test.py` to test the model.
+
+## Citation
+
+```
+@article{jin2021attcry,
+  title={ATTCry: Attention-based neural network model for protein crystallization prediction},
+  author={Jin, Chen and Gao, Jianzhao and Shi, Zhuangwei and Zhang, Han},
+  journal={Neurocomputing},
+  volume={463},
+  pages={265-274},
+  year={2021},
+  publisher={Elsevier}
+}
+```
