@@ -35,6 +35,5 @@ cd ATTCry
   volume={463},
   pages={265-274},
   year={2021},
-  publisher={Elsevier}
 }
 ```
